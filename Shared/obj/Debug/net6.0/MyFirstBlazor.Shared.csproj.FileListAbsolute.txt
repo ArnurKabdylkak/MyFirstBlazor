@@ -1,0 +1,11 @@
+D:\MyFirstBlazor\Shared\bin\Debug\net6.0\MyFirstBlazor.Shared.deps.json
+D:\MyFirstBlazor\Shared\bin\Debug\net6.0\MyFirstBlazor.Shared.dll
+D:\MyFirstBlazor\Shared\bin\Debug\net6.0\MyFirstBlazor.Shared.pdb
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.AssemblyInfoInputs.cache
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.AssemblyInfo.cs
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.csproj.CoreCompileInputs.cache
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.dll
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\refint\MyFirstBlazor.Shared.dll
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.pdb
+D:\MyFirstBlazor\Shared\obj\Debug\net6.0\ref\MyFirstBlazor.Shared.dll
